@@ -1,2 +1,4 @@
 printif ("thiru'G)
 successfully printed
+if (cnd)
+     print(".............")
