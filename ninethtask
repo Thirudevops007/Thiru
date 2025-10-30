@@ -1,5 +1,7 @@
 print "hello world"
 print if a=
+print a=o 
+printf if a=1
 
 
 
