@@ -1,1 +1,5 @@
 print "successfile"
+if(cond)
+  print("............")
+elif(condn)
+  print("............")
